@@ -15,4 +15,4 @@ machine:
   qa:
     branch: /feature_.*/
     commands:
-    -sh deployments/qa.sh
+    - sh deployments/qa.sh

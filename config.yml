@@ -38,4 +38,4 @@ jobs:
           command: sh deployments/qa.sh
 
     branches:
-      only: /feature_.*/
+      only: /main.*/
