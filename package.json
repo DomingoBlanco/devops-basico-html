@@ -1,0 +1,16 @@
+{
+  "name": "devosp-docker",
+  "version": "1.0.0",
+  "description": "practica de devops con docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Domingo Blanco",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^8.3.0",
+    "supertest": "^6.1.3"
+  }
+}
